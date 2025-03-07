@@ -1,7 +1,7 @@
 # Penguin-Species-Classification
 
 <p align="center">
-  <img width="800" height="400" src="" alt="Desarrollo-De-Nuevas-Tecnologias-Data-Base">
+  <img width="800" height="400" src="https://github.com/dg2c4/Penguin-Species-Classification/blob/main/Assets/Penguin-Species-Clasification.webp" alt="Penguin-Species-Clasification-Illustration">
 </p>
 
 
