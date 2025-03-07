@@ -9,18 +9,18 @@
 Desarrollar un análisis completo que permita extraer datos sobre los pingüinos del archipiélago Palmer (Antártida), utilizando herramientas de visualización de datos para presentar los resultados de manera efectiva.
 El trabajo se divide en tres componentes principales:
 
-### *Análisis Exploratorio:*
+### *1. Análisis Exploratorio:*
     - Formulación de preguntas de investigación.
     - Creación de hipótesis basadas en un problema específico.
     - Análisis inicial del conjunto de datos seleccionado.
 
-### *Preprocesamiento de Datos:*
+### *2. Preprocesamiento de Datos:*
     - Limpieza de datos.
     - Transformación de variables.
     - Reducción de datos cuando sea necesario.
     - Discretización de datos según corresponda.
 
-### *Visualización de Datos:*
+### *3. Visualización de Datos:*
     - Creación de un dashboard en PowerBI o Tableau.
     - Presentación visual de las conclusiones del análisis.
     - Exposición clara de los hallazgos del análisis exploratorio.
