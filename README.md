@@ -33,10 +33,8 @@ Contiene datos sobre los pingüinos del archipiélago Palmer (Antártida).
     
 
 ## *Ejercicio:*
-  A. Realizar un análisis exploratorio al conjunto de datos entregado, para ello debe crear diferentes preguntas e hipótesis a resolver en los datos partiendo de un problema que cada grupo debe plantear.
-  
-  B. Después de realizar el análisis exploratorio, debe hacer el preprocesamiento de los datos según como considere: limpieza, transformación, reducción de datos o discretización de los datos.
-  
+  A. Realizar un análisis exploratorio al conjunto de datos entregado, para ello debe crear diferentes preguntas e hipótesis a resolver en los datos partiendo de un problema que cada grupo debe plantear.\
+  B. Después de realizar el análisis exploratorio, debe hacer el preprocesamiento de los datos según como considere: limpieza, transformación, reducción de datos o discretización de los datos.\
   C. Debe realizar un dashboard en PowerBI o Tableau para exponer visualmente las conclusiones del análisis exploratorio.
     
 
@@ -62,4 +60,4 @@ Contiene datos sobre los pingüinos del archipiélago Palmer (Antártida).
 ## Created By:
     https://github.com/dg2c4
     
-### *Date:* 06/03/2025 - 12/03/2025
+### *Date:* 06/03/2025 - 13/03/2025
